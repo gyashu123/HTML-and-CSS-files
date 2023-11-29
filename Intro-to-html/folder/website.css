@@ -1,0 +1,63 @@
+.link{
+    color:rgb(0,113,133);
+    font-weight:bold;
+    font-size:large;
+    margin-top:8px;
+    transition: color 0.15s;
+}
+.link:hover{
+    color:rgb(207, 97, 12);
+}
+.text1{
+    color:black;
+    font-weight:bold;
+    font-size:xx-large;
+    margin-top:14px;
+}
+.text2{
+    color:rgb(0,118,0);
+    font-weight:bold;
+    font-size:x-large;
+    margin-top:8px;
+}
+.text3{
+    color:black;
+    font-size:x-large;
+    margin-top:8px;
+}
+.cart-button{
+    background-color:rgb(255, 216, 20);
+    color:black;
+    border:none;
+    height:32px;
+    width:120px;
+    font-weight:bold;
+    border-radius:16px;
+    cursor: pointer;
+    margin-left:8px;
+    transition: opacity 0.15s;
+}
+.cart-button:hover{
+    opacity:0.75;
+}
+.cart-button:active{
+    opacity:0.5;
+}
+.buy-button{
+    background-color:rgb(255, 164, 28);
+    color:black;
+    border:none;
+    height:32px;
+    width:120px;
+    font-weight:bold;
+    border-radius:16px;
+    cursor: pointer;
+    margin-left:8px;
+    transition: opacity 0.15s;
+}
+.buy-button:hover{
+    opacity:0.75;
+}
+.buy-button:active{
+    opacity:0.5;
+}

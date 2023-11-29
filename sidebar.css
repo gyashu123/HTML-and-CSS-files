@@ -1,0 +1,26 @@
+.sidebar-icons {
+    position:absolute;
+    display:grid;
+    align-items:center;
+    justify-content: space-between;
+    top:20px;
+    left:20px;
+}
+.home-icon {
+    width:18px;
+}
+.explore-icon {
+    width:18px;
+}
+.subscriptions-icon {
+    width:18px;
+}
+.originals-icon {
+    width:18px;
+}
+.youtube-music-icon {
+    width:18px;
+}
+.library-icon {
+    width:18px;
+}
